@@ -1,0 +1,18 @@
+{
+  "itemGroup.expansivesolars.expansivesolarsmain": "Expansive Solars",
+  "block.expansivesolars.energycell_tier1": "Energy Cell (Tier 1)",
+  "block.expansivesolars.energycell_tier2": "Energy Cell (Tier 2)",
+  "block.expansivesolars.energycell_tier3": "Energy Cell (Tier 3)",
+  "block.expansivesolars.energyreactor_tier1": "Energy Reactor (Tier 1)",
+  "block.expansivesolars.energyreactor_tier2": "Energy Reactor (Tier 2)",
+  "block.expansivesolars.energyreactor_tier3": "Energy Reactor (Tier 3)",
+  "block.expansivesolars.energyconduit": "Energy Conduit",
+  "block.expansivesolars.lifesupport_tier1": "Life Support Generator (Tier 1)",
+  "block.expansivesolars.lifesupport_tier2": "Life Support Generator (Tier 2)",
+  "block.expansivesolars.lifesupport_tier3": "Life Support Generator (Tier 3)",
+  "block.expansivesolars.engine_sublight": "Sublight Engine",
+  "block.expansivesolars.engine_ftl": "FTL Engine",
+  "block.expansivesolars.beamingplatform": "Beaming Platform",
+  "block.expansivesolars.sensor_local": "Local Sensor",
+  "block.expansivesolars.sensor_space": "Deep-Space Sensor"
+}

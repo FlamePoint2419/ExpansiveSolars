@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "expansivesolars",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "ExpansiveSolars",
+  "description": "Travel to other planets in your custom built spaceship!",
   "authors": [
-    "Me!"
+    "FlamePoint"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/FlamePoint2419/ExpansiveSolars",
+    "sources": "https://github.com/FlamePoint2419/ExpansiveSolars"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "Apache-2.0",
+  "icon": "assets/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.flamepoint.expansivesolars.ExpansiveSolars"
     ]
   },
   "mixins": [
